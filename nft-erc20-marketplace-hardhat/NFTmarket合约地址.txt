@@ -1,0 +1,10 @@
+ERC20合约地址：0x83d832f3d4d44146cac9512683bbd1b616ace0aa
+
+
+//NFT合约地址：  0x91429231ca0545dece2e61498b80e93b39f1f5ac
+NFT合约地址：  0xa4cd46204506bc3c97a278fbe7424c8ac395f614 //添加tokensOfOwner方法
+
+
+//NFT交易市场合约地址：0x1fb0867ab9cc4bab5943a99c15db302d51c6be10 ，无getNFTList
+//NFT交易市场合约地址：0x790f98da655eb6087e92b9c14c92242cb8136911
+NFT交易市场合约地址：0x3ea50fe609a55470d5326bd2f8110d8fde810eaf //能获取详细信息
