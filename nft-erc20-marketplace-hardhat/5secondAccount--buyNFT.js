@@ -9,7 +9,7 @@
 	const NFTMarketAddr = "0x1fb0867ab9cc4bab5943a99c15db302d51c6be10";
 
 	// 利用私钥和provider创建wallet对象 ,chrome浏览器sepolia钱包
-	const privateKey = 'dce5d37738aa89a435f1d0dfec8e8ba1df29da67f0fa68d3abed24a436829483';
+	const privateKey = 'xxxxxxxxxxxxxxxxxxxxxxxx';
 	const wallet = new ethers.Wallet(privateKey, provider)
 	
 	//NFTMarket 的abi;
