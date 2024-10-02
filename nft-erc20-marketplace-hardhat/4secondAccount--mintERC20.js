@@ -9,7 +9,7 @@
 	const ERC20ContractAddr = "0x33be362fb4f513223cf7fcb25f4d986979e9f0ac";
 
 	// 利用私钥和provider创建wallet对象 chrome浏览器sepolia钱包
-	const privateKey = 'dce5d37738aa89a435f1d0dfec8e8ba1df29da67f0fa68d3abed24a436829483';
+	const privateKey = 'xxxxxxxxxxxxxxxxxxxxxxxx';
 	const wallet = new ethers.Wallet(privateKey, provider)
 	
 	//ERC20 的abi;
